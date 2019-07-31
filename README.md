@@ -6,5 +6,4 @@
   1. In the RL Agent, the DRL model, which is trained offline using network bandwidth traces, instructs the RL agent to select a proper rate at each time of requesting, based on the state information collected from network monitor, buffer status and the player.
 ## Demo
 * If you want to check the system, please run the demo through the link:
-
 https://www.youtube.com/watch?v=eNjBfOFfj1I
