@@ -1,4 +1,4 @@
-# live video streaming framework and demo
+# Live Video Streaming: Framework and Demo
 ## Framework
 ![Alt text](https://github.com/ullstreaming2020/livestreaming_demo/blob/master/pic.png)
 * The figure illustrates the architecture of our chunk-based live video streaming system.
