@@ -1,7 +1,7 @@
 # Live Video Streaming: Framework and Demo
 
 ## Full Version Report
-* The detailed report is available at: https://github.com/ullstreaming2020/Live-Demo/blob/master/Report.pdf
+* The detailed report is available at: https://github.com/ullstreaming2020/Live-Demo/blob/master/report.pdf
 ## Framework
 ![Alt text](https://github.com/ullstreaming2020/livestreaming_demo/blob/master/pic.png)
 * The figure illustrates the architecture of our chunk-based live video streaming system.
